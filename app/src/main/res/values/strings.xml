@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Muva</string>
+
+
+    <!--fragment_voter_reg view names-->
+    <string name="buttonSubmitForm">submit</string>
+
+    <!--fragment_cand_reg hints -->
+    <string name="candidateIdHint">Enter candidate scl ID</string>
+    <string name="candidatePartyHint">Enter candidate party</string>
+    <string name="spinnerLabel">Select Position:</string>
+
+    <string name="passwordHint">enter your password</string>
+    <!-- password hint-->
+    <string name="forgotPassword">Forgot password? Click here.</string>
+    <string name="copyright">Copyright \u00a9 2020, Reuben Ombaso. All rights Reserved</string>
+
+    <string name="remember_password">Remember password</string>
+    <string name="cand_activity_header">Candidate Registration</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="login">Login</string>
+    <string name="not_a_member_click_to_register">Not a member? click to register</string>
+
+    <!--string array to be used in drop down-->
+    <string-array name="role_login">
+        <item>Admin</item>
+        <item>Member</item>
+    </string-array>
+
+    <string-array name="nationality">
+        <item>Kenya</item>
+        <item>Tanzania</item>
+        <item>Uganda</item>
+        <item>Rwanda</item>
+        <item>Kenya</item>
+        <item>Ethiopia</item>
+        <item>S Sudan</item>
+        <item>DR Congo</item>
+        <item>Somalia</item>
+        <item>Rest of Africa</item>
+        <item>Rest of World</item>
+    </string-array>
+
+
+</resources>
